@@ -1,2 +1,2 @@
 # competitive-prog
-My Solutions
+My code library
